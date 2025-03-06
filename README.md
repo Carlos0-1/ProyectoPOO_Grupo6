@@ -12,7 +12,7 @@ Aquí se gestiona el desarrollo del proyecto asignado, incluyendo la colaboraci�
 # 👥 Integrantes del Equipo  
 -JOSUE ALEJANDRO SANDOVAL GALINDO   #DE CUENTA: 201630010142
 - JOSE RAMON HERNANDEZ DUBON        #DE CUENTA: 201630010142
-- CARLOS MANUEL VIDES MARTINEZ    #DE CUENTA: 201630010142
+- CARLOS MANUEL VIDES MARTINEZ    #DE CUENTA: 202410011012
 
 ---
 
